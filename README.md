@@ -41,6 +41,7 @@ Support Vector Machine achieved the highest accuracy among all models, making it
 This project demonstrates the importance of preprocessing, model selection, and evaluation in machine learning. It highlights how different algorithms perform on the same dataset and shows that advanced models like Support Vector Machine and Random Forest can provide better results for classification tasks.
 
 ## How to Run
+
 Clone the repository
 Open the notebook in Jupyter
 Run all cells step by step
