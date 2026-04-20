@@ -42,9 +42,9 @@ This project demonstrates the importance of preprocessing, model selection, and 
 
 ## How to Run
 
-Clone the repository
-Open the notebook in Jupyter
-Run all cells step by step
+* Clone the repository
+* Open the notebook in Jupyter
+* Run all cells step by step
 
 ## Explanation Video
 
