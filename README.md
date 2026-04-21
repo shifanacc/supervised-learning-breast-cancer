@@ -49,3 +49,5 @@ This project demonstrates the importance of preprocessing, model selection, and 
 ## Explanation Video
 
 A detailed explanation video is provided below. Please refer to it to understand the project workflow and results
+
+https://drive.google.com/file/d/18fNkmuSbux87g3wQc7wsr-Wtzg7xolrk/view?usp=sharing
